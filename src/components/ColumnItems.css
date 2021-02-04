@@ -1,0 +1,5 @@
+.column-items {
+    position: absolute;
+    height: 80vh;
+    overflow-y: scroll;
+}
